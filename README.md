@@ -26,6 +26,11 @@ Access project at - https://nmapty.netlify.app/
 <img src="./src/2023-04-16.png" alt="permission" style="width: 75%" />
 </p>
 
+- After allowing permission this is how landing page will look like 
+<p align="center">
+<img src="./src/2023-04-16 (1).png" alt="permission" style="width: 75%" />
+</p>
+
 
 
 
