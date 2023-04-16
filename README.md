@@ -89,3 +89,6 @@ live-server
 
 -   [Nidhi Singhal](https://github.com/nidhiss29)
 
+
+## Libraries Used
+-   [Leaflet](https://leafletjs.com/)
