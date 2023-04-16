@@ -35,5 +35,24 @@ OR
 ```sh
 git clone https://github.com/<your_username>/Mapty.git
 ```
+-First verify node.js is installed
+
+```sh
+node -v
+```
+
+-Then install the live-server package:
+
+```sh
+npm install -g live-server
+```
+
+-then run command 
+
+```sh
+live-server
+```
+
+-else run from interface
 
 
