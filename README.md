@@ -33,7 +33,7 @@ OR
 - Fork the repo to your github account and then,
 
 ```sh
-git clone https://github.com/<..your_username..>/Mapty.git
+git clone https://github.com/<your_username>/Mapty.git
 ```
 
 
