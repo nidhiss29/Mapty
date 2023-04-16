@@ -19,6 +19,15 @@ Mapty is a Front End Web Application which will track your workout as per your w
 Access project at - https://nmapty.netlify.app/
 
 
+# Navigation
+
+-   **Home Page** - While opening Mapty's homepage it'll be asking for location permission.
+<p align="center">
+<img src="./src/2023-04-16.png" alt="permission" style="width: 75%" />
+</p>
+
+
+
 
 # Local Development
 
