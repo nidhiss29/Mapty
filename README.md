@@ -41,8 +41,10 @@ Access project at - https://nmapty.netlify.app/
 <img src="./src/2023-04-16 (3).png" alt="permission" style="width: 75%" />
 </p>
 
-
-
+-User is allowed to add as many workouts as much they want 
+<p align="center">
+<img src="./src/2023-04-16 (4).png" alt="permission" style="width: 75%" />
+</p>
 
 
 
