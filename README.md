@@ -31,6 +31,18 @@ Access project at - https://nmapty.netlify.app/
 <img src="./src/2023-04-16 (1).png" alt="permission" style="width: 75%" />
 </p>
 
+- Now to track your workout click anywhere on the map where you want , to add workout press enter after filling the form.
+<p align="center">
+<img src="./src/2023-04-16 (5).png" alt="permission" style="width: 75%" />
+</p>
+
+- User is also allowed to add cycling as a workout besides running also
+<p align="center">
+<img src="./src/2023-04-16 (3).png" alt="permission" style="width: 75%" />
+</p>
+
+
+
 
 
 
