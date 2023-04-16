@@ -53,6 +53,11 @@ npm install -g live-server
 live-server
 ```
 
--else run from interface
+-else run from IDE interface
 
+
+
+# Author
+
+-   [Nidhi Singhal](https://github.com/nidhiss29)
 
