@@ -15,3 +15,5 @@ Mapty is a Front End Web Application which will track your workout as per your w
 
 -   **Frontend** - [JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 -   **CSS preprocessor** - [SASS](https://sass-lang.com/)
+
+Access project at - https://nmapty.netlify.app/
