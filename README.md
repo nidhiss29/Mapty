@@ -13,5 +13,5 @@ Track your workout using your Geo-location
 
 Mapty is a Front End Web Application which will track your workout as per your wish in just one click at your geo location.
 
--   **Frontend ** - [JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+-   **Frontend** - [JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 -   **CSS preprocessor** - [SASS](https://sass-lang.com/)
