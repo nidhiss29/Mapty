@@ -17,3 +17,23 @@ Mapty is a Front End Web Application which will track your workout as per your w
 -   **CSS preprocessor** - [SASS](https://sass-lang.com/)
 
 Access project at - https://nmapty.netlify.app/
+
+
+
+# Local Development
+
+- To clone copy the following command in your terminal and start development.
+
+```sh
+git clone https://github.com/nidhiss29/Mapty.git
+```
+
+OR
+
+- Fork the repo to your github account and then,
+
+```sh
+git clone https://github.com/<..your_username..>/Mapty.git
+```
+
+
